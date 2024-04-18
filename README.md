@@ -11,12 +11,12 @@ https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 # Analysis Approach
 The analysis can include the following steps:
 
-1. Data Exploration: Examine the structure and content of the dataset, identify missing values, and understand the distribution of unemployment rates over time.
-2. Preprocessing: Clean the data, handle missing values, and prepare it for analysis.
-3. Trend Analysis: Analyze trends and seasonal patterns in the unemployment rate before, during, and after the COVID-19 pandemic.
-4. Demographic Analysis: Explore how unemployment rates vary across different demographic groups (e.g., area, region, state).
-5. Industry and Regional Analysis: Investigate the impact of the pandemic on unemployment rates across various industries and regions.
-6. Visualization: Create visualizations (e.g., time series plots, bar charts) to illustrate key findings and insights.
+1. Data Exploration: Examining the structure and content of the dataset, identifying missing values, and understanding the distribution of unemployment rates over time.
+2. Preprocessing: Cleaning the data, handling missing values, and preparing it for analysis.
+3. Trend Analysis: Analyzing trends and seasonal patterns in the unemployment rate before, during, and after the COVID-19 pandemic.
+4. Demographic Analysis: Exploring how unemployment rates vary across different demographic groups (e.g., area, region, state).
+5. Industry and Regional Analysis: Investigating the impact of the pandemic on unemployment rates across various industries and regions.
+6. Visualization: Creating visualizations (e.g., time series plots, bar charts) to illustrate key findings and insights.
 
 # Future Work
 Identify potential areas for further research and analysis, such as exploring the effectiveness of government policies, forecasting future unemployment trends, or conducting comparative studies across different countries or time periods.
